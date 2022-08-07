@@ -16,7 +16,7 @@ El promedio es:
 7.66 
 */
 
-float a = 6, b = 8, c = 9;
+int a = 6, b = 8, c = 9;
 float promedio = 0;
 promedio = (a+b+c)/3;
 
@@ -57,5 +57,4 @@ perimetro = 2 * radio * PI;
     printf("El area es:\n");
     printf("%f", area);
 return 0;
-
 }
